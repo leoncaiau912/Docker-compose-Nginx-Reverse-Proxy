@@ -14,3 +14,8 @@ Tutorial
 2. run compose
 docker-compose up -d
 
+
+
+#v2.
+Replaced image with build in docker-compose.yml
+
